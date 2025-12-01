@@ -2,6 +2,6 @@ Este es simplemente un archivo de texto de prueba sin un propósito funcional re
 
 Fue creado únicamente para la actividad de la universidad.
 
-NO BORRAR ESTA LÍNEA BAJO NINGUNA CIRCUNSTANCIA.
+NO BORRAR ESTA LÍNEA BAJO NINGUNA CIRCUNSTANCIA.(modificado por mi)
 
 subiendo cambios
