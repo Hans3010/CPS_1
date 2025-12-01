@@ -2,6 +2,9 @@ Este es simplemente un archivo de texto de prueba sin un propósito funcional re
 
 Fue creado únicamente para la actividad de la universidad.
 
-NO BORRAR ESTA LÍNEA BAJO NINGUNA CIRCUNSTANCIA.(modificado por mi)
+NO BORRAR ESTA LÍNEA BAJO NINGUNA CIRCUNSTANCIA.(Modificado por Marcelo)
+
 
 subiendo cambios
+
+Línea agregada por Marcelo como parte del commit 2.
